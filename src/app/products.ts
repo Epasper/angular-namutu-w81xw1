@@ -16,6 +16,12 @@ export const products = [
     name: 'Od zmiennych aż do tworzenia internetowych sklepików',
     price: 2.99,
     description: 'A wszystko za frytę'
+  },
+    {
+    productNumber:3,
+    name: 'Zero obowiązków, same korzyści',
+    price: 17.99,
+    description: ''
   }
 ];
 
